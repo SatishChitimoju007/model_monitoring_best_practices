@@ -1,0 +1,4 @@
+
+Model monitoring:
+-----------------
+Model performance monitoring is an essential task in the MLOps pipeline as it’s the one that would help maintain how our model keeps up with the business requirement. With a Python package called evidently, we can easily set up the model performance monitor, which can be integrated into any existing MLOps pipeline.
